@@ -13,6 +13,11 @@ var a = 10 ; // number veri tipi
 
 console.log(a);
 
+var b = 15 ; // number veri tipi 
+
+console.log(b);
+
+
 
 
 //Reference veri tipi 
