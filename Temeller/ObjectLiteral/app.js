@@ -24,4 +24,21 @@ const programer = {
 
 value = programer;
 
+value = programer.email;
+
+value=programer.langs;
+
+value = programer.address.street;
+
+programer.work();
+
+ const programer = [
+
+     {name:"mustafa murat",age:25},
+     {name : "oğuz ",age:23}
+
+];
+
+value = programer[0];
+
 console.log(value);
